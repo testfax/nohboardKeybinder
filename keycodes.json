@@ -97,15 +97,17 @@
     "181": ["Media player"],
     "182": ["Launch application 1"],
     "183": ["Launch application 2"],
-    "186": ["Semicolon"],
+    "186": ["Semicolon",":"],
     "187": ["Equal","Equals"],
-    "188": ["Comma"],
+    "188": ["Comma","<"],
     "189": ["Minus"],
-    "190": ["Period"],
-    "191": ["Slash"],
+    "190": ["Period",">"],
+    "191": ["Slash","?"],
     "192": ["Backquote","Grave"],
+    "193": ["ABNT_C1","?"],
     "219": ["BracketLeft","LeftBracket"],
     "220": ["Backslash","BackSlash"],
     "221": ["BracketRight","RightBracket"],
-    "222": ["Quote","Apostrophe"]
+    "222": ["Quote","Apostrophe"],
+    "226": ["IntlBackslash"]
 }
