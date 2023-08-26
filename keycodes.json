@@ -103,7 +103,6 @@
     "190": ["Period",">"],
     "191": ["Slash","?"],
     "192": ["Backquote","Grave"],
-    "90": ["ABNT_C1"],
     "219": ["BracketLeft","LeftBracket"],
     "220": ["Backslash","BackSlash"],
     "221": ["BracketRight","RightBracket"],
