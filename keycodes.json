@@ -3,17 +3,17 @@
         "0": ["SpeedIndicator"]
     },
     "MouseKey": {
-        "0": ["Mouse_1"],
-        "1": ["Mouse_2"],
-        "2": ["Mouse_3"],
-        "3": ["Mouse_4"],
-        "4": ["Mouse_5"]
+        "700": ["Mouse_1"],
+        "701": ["Mouse_2"],
+        "702": ["Mouse_3"],
+        "703": ["Mouse_4"],
+        "704": ["Mouse_5"]
     },
     "MouseScroll": {
-        "0": ["Pos_Mouse_ZAxis"],
-        "1": ["Neg_Mouse_ZAxis"],
-        "2": ["ScrollRight"],
-        "3": ["ScrollLeft"]
+        "705": ["Pos_Mouse_ZAxis"],
+        "706": ["Neg_Mouse_ZAxis"],
+        "707": ["ScrollRight"],
+        "708": ["ScrollLeft"]
     },
     "KeyboardKey": {
         "8": ["Backspace"],
