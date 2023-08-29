@@ -1,7 +1,8 @@
 # nohboardKeybinder
 Keybinding tool for NohBoard featuring Elite: Dangerous keybinds.
-https://elitepilotslounge.com/nohboard
-
+- Keybinds Adjuster located here: https://elitepilotslounge.com/nohboard
+- Nohboard latest release located here: https://github.com/ThoNohT/NohBoard/releases
+  
 # Useage
 This tool is used to adjust keybinds for the Nohboard overlay.
 Equip your favorite overlay and get it running.
