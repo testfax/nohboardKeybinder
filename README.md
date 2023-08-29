@@ -10,9 +10,8 @@ Keybinding tool for NohBoard featuring Elite: Dangerous keybinds.
 - Grab the keybind.json file. Make sure you are NOT grabbing the one in the main directory. That is not the one that we want.
 - Import the 'keyboard.json' file into the website.
 - You will have a second option whether or not to import your Elite: Dangerous keybinds file. This will pair up all matching keys/mouse inputs and match them together.
-
--The matched keybinds are a direct corelation of the keybinds file. 
--For example, a thrust forward key of 'w' will match your game binds with every key that has 'w' and show you. You will only be able to select 1 key press per Noh ID. Which in this example is the 'thrust forward' overlay item.
+- The matched keybinds are a direct corelation of the keybinds file. 
+- For example, a thrust forward key of 'w' will match your game binds with every key that has 'w' and show you. You will only be able to select 1 key press per Noh ID. Which in this example is the 'thrust forward' overlay item.
 
 # Joystick support
 - Joystick support is not inputed at this time.
